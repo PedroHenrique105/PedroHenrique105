@@ -1,5 +1,7 @@
 ## Pedro Henrique
 
+Me chamo Pedro Henrique e tenho 15 anos, estou cursando o primeiro ano da Etec no curso de Informatica para Internet 
+
 <p>
 
 <a href="https://www.instagram.com/pedro_s_leopoldino/" target="_blank">
